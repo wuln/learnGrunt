@@ -1,2 +1,2 @@
-# learnGrunt
+# myGrunt
 Grunt
