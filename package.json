@@ -2,7 +2,7 @@
   "name": "learngrunt",
   "version": "1.0.0",
   "description": "learn grunt",
-  "main": "index.js",
+  "main": "Gruntfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
